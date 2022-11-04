@@ -1,2 +1,1 @@
-# js-projects-bw7
-Série de Projetos em JavaScript - Desafio 7 Projetos em 7 dias fornecido pela B7Web
+07 Projetos em JavaScript Vanilla ensinado pelo professor Bonieky Lacerda.
